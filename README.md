@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>My name is Carlos, i'm a Computer Engineering student at UFRN and enthusiast of a wide range of fields. Fucusing my studies in Cibersecurity<br><br>
+<br>My name is Carlos, i'm a Computer Engineering student at UFRN and enthusiast of a wide range of fields, focusing my studies on Cybersecurity<br><br>
 
 
 # 💻 Tech Stack:
